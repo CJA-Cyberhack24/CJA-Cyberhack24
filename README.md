@@ -1,4 +1,4 @@
-<h1>Hi, I'm CJA! 
+<h1>Hi, I'm CJA! <br/><a href="https://github.com/CJA-Cyberhack24">IT Support Helpdesk</a>, <a href="https://www.linkedin.com/in/cjathanase/">Cybersecurity Enthusiast</a></h1>
 
 <h2>👩🏽‍💻 Cybersecurity Projects:</h2>
 
