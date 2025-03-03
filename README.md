@@ -54,6 +54,7 @@
 [youtube]: https://www.youtube.com/@SAM7167
 [instagram]: https://www.instagram.com/cjavalerion/
 [linkedin]: https://linkedin.com/in/cjathanase
+[Bluesky]: https://bsky.app/profile/athanasecj.bsky.social
 
 
 
