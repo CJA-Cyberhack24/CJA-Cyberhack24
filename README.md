@@ -49,7 +49,7 @@
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt=" | Bluesky" width="22px" src="https://blueskyweb.xyz/blog/12-21-2023-butterfly" />][bluesky]
+[<img align="left" alt=" | Bluesky" width="22px" src="[https://blueskyweb.xyz/blog/12-21-2023-butterfly](https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg)" />][bluesky]
 
 
 [twitter]: https://twitter.com/AvalerionP
