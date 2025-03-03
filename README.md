@@ -23,7 +23,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- Tutorial - Active Directory Home Lab *(https://www.youtube.com/)*
+- Tutorial - Active Directory Home Lab 
 
 
 <h2>To sum up...</h2>
@@ -48,6 +48,7 @@
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | Bluesky" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg](https://commons.wikimedia.org/wiki/File:Bluesky_Logo.svg)" />][bluesky]
 
 
 [twitter]: https://twitter.com/AvalerionP
