@@ -2,9 +2,9 @@
 
 <h2>👩🏽‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://www.github.com/CJA-Cyberhack24/LABURL)
+- [Active Directory Home Lab](https://github.com/CJA-Cyberhack24/LABURL)
 - [Hello World!](https://github.com/CJA-Cyberhack24/Hello-World-)
-- [Cheatsheet Linux for absolute Beginners]()
+- [Cheatsheet Linux for absolute Beginners](https://github.com/CJA-Cyberhack24/Cheatsheet-Linux-for-absolute-Beginners.git)
   
 <h2>📜 Certifications:</h2>
 
@@ -45,11 +45,11 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt=" | Bluesky" width="22px" src="[https://blueskyweb.xyz/blog/12-21-2023-butterfly](https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg)" />][bluesky]
+[<img align="left" alt="SAM7167 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="SAM7167 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="SAM7167 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SAM7167 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SAM7167 | Bluesky" width="22px" src="[https://blueskyweb.xyz/blog/12-21-2023-butterfly](https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg)" />][bluesky]
 
 
 [twitter]: https://twitter.com/AvalerionP
