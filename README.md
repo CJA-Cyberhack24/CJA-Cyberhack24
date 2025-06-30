@@ -4,7 +4,7 @@
 
 - [Active Directory Home Lab](https://www.github.com/CJA-Cyberhack24/LABURL)
 - [Hello World!](https://github.com/CJA-Cyberhack24/Hello-World-)
-- [Cheatsheet Linux for absolute Beginners](https://github.com/CJA-Cyberhack24/Cheatsheet-Linux-for-absolute-Beginners.git)
+- [Cheatsheet Linux for absolute Beginners](https://github.com/CJA-Cyberhack24/Linux-Essential-Introduction/blob/27759f07b9c4bf141d71603dfcc5614a2130f287/linux-cheatsheet.png)
   
 <h2>📜 Certifications:</h2>
 
