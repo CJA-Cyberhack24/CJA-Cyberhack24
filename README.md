@@ -31,14 +31,14 @@
 
 - 👋 I’m @CJA-Cyberhack24
 - 🚀 I started my journey in IT just a year ago. I'm in search of a career in cybersecurity that best suits me as an introvert.
-- 💞️ I’m looking working as an IT Support Helpdesk. 
-- 🌱 I’m currently studying for my CompTIA A+.
-- 👀 I’m interested in learning more about Cybersecurity.
+- 💞️ I’ve been working as an IT Support Helpdesk, but now looking to merge into the Cybersecurity field. 
+- 🌱 I’ve been studying to get my CompTIA A+, Network + and Security +.
+- 👀 I’ve been interested in Cybersecurity for a while but was too overwhelmed to look into.
 - 🔭 I’m currently working on my Google Cybersecurity Certificate. 
 - 👯 I’m looking to collaborate in the near future on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- ⚡ Fun fact: I love equally Swtor amd LOTR.
+- ⚡ Fun fact: I love Star Wars & Swtor and the Trilogy of LOTR.
 - 📫 How to reach me by dropping a line into my mailbox.
 
   
