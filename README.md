@@ -13,6 +13,10 @@
 - [Cheatsheet Linux for absolute Beginners](https://github.com/CJA-Cyberhack24/Linux-Essential-Introduction/blob/9bd983a630d554a413f4134160924462d43ab182/README.md)
 
 <h2>✨ AI Projects:</h2>
+
+-
+-
+-
   
 <h2>📜 Certifications:</h2>
 
