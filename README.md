@@ -9,7 +9,7 @@
 <h2>📜 Certifications:</h2>
 
 - Google IT Support Technician Certificate (https://coursera.org/verify/professional-cert/JW93WHG9LM3P)
-- Google Cybersecurity Professional Certificate (in progress)
+- Google Cybersecurity Professional Certificate [in progress](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio.git)
 
 
 <h2> 👩🏽‍🔧 How-To:</h2>
