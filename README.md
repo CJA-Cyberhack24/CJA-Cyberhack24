@@ -9,6 +9,7 @@
 <h2>📜 Certifications:</h2>
 
 - Google IT Support Technician Certificate (https://coursera.org/verify/professional-cert/JW93WHG9LM3P)
+- Coursera Fundamentals of Red Hat Enterprise Linux v.8 (https://coursera.org/share/4a05860a410e1a63f981aa18dcfc8129)
 - Google Cybersecurity Professional Certificate [in progress](https://github.com/CJA-Cyberhack24/Google-Cybersecurity-Training-Portfolio.git)
 
 
