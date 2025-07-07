@@ -1,5 +1,11 @@
 <h1>Hi, I'm CJA! <br/><a href="https://github.com/CJA-Cyberhack24">Emerging Cybersecurity Analyst with IT Helpdesk Background</a></h1>
 
+<h2> 💻⚙️ IT Troubleshooting:</h2>
+- 
+-
+-
+
+
 <h2>👩🏽‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://www.github.com/CJA-Cyberhack24/LABURL)
