@@ -28,17 +28,6 @@
 
 <h2> 👩🏽‍🔧 How-To:</h2>
 
--
-
-
-<h2>Cybersecurity Tools</h2>
-
--
-
-
-<h2>📺 Popular YouTube Videos</h2>
-
-* Tutorial - Active Directory Home Lab 
 * How to Analyze Network Traffic with Wireshark
 * How to Detect SQL Injection Attacks
 * How to Build a Cybersecurity Flashcard App (HTML/CSS/JS)
@@ -47,6 +36,76 @@
 * How to Build a Phishing Email Classifier with Python
 * How to Use Chatbots for IT Support Automation
 * How to Summarize Threat Reports with GenAI
+
+
+<h2>Cybersecurity Tools</h2>
+
+🔍 SIEM Tools
+Splunk, Graylog, IBM QRadar
+
+Show log parsing, alert generation, and event correlation
+
+✅ Include screenshots of dashboards or sample incident workflows
+
+📡 Network Protocol Analyzers
+Wireshark, tcpdump
+
+Demonstrate packet sniffing, protocol decoding, anomaly detection
+
+✅ Add a short video or capture of live traffic analysis session
+
+🔒 Vulnerability Scanners
+Nessus, OpenVAS, Qualys
+
+Show how the scanner identifies weak configurations
+
+✅ Share sample scan reports and interpreted results
+
+🧱 Firewall Configuration
+pfSense, Cisco ASA
+
+Present rule setting, policy enforcement, and port monitoring
+
+✅ Include a “before/after” scenario of blocking malicious traffic
+
+🧠 Endpoint Detection & Response (EDR)
+CrowdStrike, Microsoft Defender for Endpoint
+
+Document malware detection, quarantine, and remediation
+
+✅ Highlight incident logs and automated response actions
+
+🔐 Encryption Tools
+OpenSSL, VeraCrypt
+
+Demonstrate file encryption, hashing, and key generation
+
+✅ Include real-world examples (e.g., securing a USB drive)
+
+🧮 Programming & Scripting Utilities
+Python, Bash, PowerShell
+
+Automate log parsing, system scans, and alerting
+
+✅ Add code snippets or GitHub links with inline documentation
+
+🧾 Database Security / SQL
+SQL used to detect breaches or failed login attempts
+
+✅ Show sample queries: finding anomalies or grouping failed logins
+
+📊 GRC Platforms or Tools
+RiskLens, Archer, Microsoft Purview
+
+Show how risk assessments or compliance policies are managed
+
+✅ Include mock assessments or policy checklists
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+* Tutorial - Active Directory Home Lab 
+
 
 
 <h2>To sum up...</h2>
