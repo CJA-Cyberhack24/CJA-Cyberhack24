@@ -15,9 +15,9 @@
 
 <h2>✨ AI Projects:</h2>
 
--
--
--
+* 🛡️ SQL Injection Detector
+* 🌐 Network Packet Behavior Predictor
+* 🧠 Log Anomaly Detector (Python)
   
 <h2>📜 Certifications:</h2>
 
