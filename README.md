@@ -1,9 +1,9 @@
 <h1>Hi, I'm CJA! <br/><a href="https://github.com/CJA-Cyberhack24">Emerging Cybersecurity Analyst with IT Helpdesk Background</a></h1>
 
-<h2> 💻⚙️ IT Troubleshooting:</h2>
-- 
--
--
+<h2> ⚙️ IT Troubleshooting:</h2>
+- 💻 IT Support Meets Cybersecurity Strategy
+- 🚨 Incident Analysis Through Troubleshooting
+- 🛠️ Technical Diagnostics: Building Secure Systems
 
 
 <h2>👩🏽‍💻 Cybersecurity Projects:</h2>
