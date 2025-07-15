@@ -38,7 +38,15 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- Tutorial - Active Directory Home Lab 
+* Tutorial - Active Directory Home Lab 
+* How to Analyze Network Traffic with Wireshark
+* How to Detect SQL Injection Attacks
+* How to Build a Cybersecurity Flashcard App (HTML/CSS/JS)
+* How to Use SIEM Tools for Threat Detection
+* How to Write a Basic Python Script for Log Parsing
+* How to Build a Phishing Email Classifier with Python
+* How to Use Chatbots for IT Support Automation
+* How to Summarize Threat Reports with GenAI
 
 
 <h2>To sum up...</h2>
