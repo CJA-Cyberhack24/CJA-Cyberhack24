@@ -5,6 +5,14 @@
 * 💻 IT Support Meets Cybersecurity Strategy
 * 🚨 Incident Analysis Through Troubleshooting
 * 🛠️ Technical Diagnostics: Building Secure Systems
+  
+* 🧰 Freelance PC Troubleshooter
+Self-Initiated Technical Support  Fort-de-France, Martinique  2023–Present
+- Diagnosed and resolved a “No Signal” monitor issue by reseating RAM, cleaning contacts, and resetting CMOS battery, restoring system functionality
+- Identified and replaced faulty CMOS battery to fix persistent system clock errors, improving BIOS stability
+- Investigated monitor display issues (ghosting, blurring) through hardware/software diagnostics; determined panel failure and successfully replaced monitor
+- Applied online research and community-sourced solutions (e.g., Reddit forums) to troubleshoot complex PC problems
+- Demonstrated strong analytical thinking, hardware familiarity, and persistence in resolving multi-layered technical faults
 
 
 <h2>👩🏽‍💻 Cybersecurity Projects:</h2>
